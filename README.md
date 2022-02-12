@@ -55,7 +55,7 @@ variable "region" {
 Navigate to the project directory where the files are to be installed and follow the below steps
 
 ```
-$ git clone https://github.com/jomyg/ Terraform-VPC-sample.git
+$ git clone https://github.com/jomyg/Terraform-VPC-sample.git
 ```
 Next, use the 'terraform init' command is used to initialize a working directory containing Terraform configuration files.
 ```
